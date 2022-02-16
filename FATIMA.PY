@@ -14,7 +14,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from bnsall import bnsbuy
+
 
     bnsbuy()
 
